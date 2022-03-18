@@ -1,11 +1,10 @@
 const CACHE_NAME = "my-site-cache-v1";
 const DATA_CACHE_NAME = "data-cache-v1";
 
-//TODO: make sure they are the right files
+//make sure they are the right files
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
-  "/favicon.ico",
   "/manifest.json",
   "/css/styles.css",
   "/js/index.js",
